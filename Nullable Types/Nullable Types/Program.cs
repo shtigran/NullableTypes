@@ -10,6 +10,8 @@ namespace Nullable_Types
     {
         static void Main(string[] args)
         {
+
+            int? a = null;  // Nullable type for valutype
         }
     }
 }
