@@ -5,4 +5,4 @@
 
 ### Purpose
 
-The project illustrates the Nullable Types, that how valutype can has null. What methods variable inherited from Nullable<T>.
+The project illustrates the Nullable Types, that how valutype can has null. What methods variable inherited from Nullable <<T>> .
