@@ -24,7 +24,10 @@ namespace Nullable_Types
             //b = a; It is false, but 
             a = b; //It is 
 
+            Console.WriteLine(a.HasValue);
+            Console.WriteLine(a.Value);
 
+            Console.ReadKey();
 
         }
     }
